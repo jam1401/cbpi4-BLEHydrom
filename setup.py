@@ -30,7 +30,7 @@ setup(name='cbpi4-BLEHydrom',
       'cbpi4-BLEHydrom': ['*','*.txt', '*.rst', '*.yaml']},
       packages=['cbpi4-BLEHydrom'],
       install_requires=[
-      'PyBluez==0.23',
+      'PyBluez==0.30',
       'gattlib==0.20201113',
       ],
       long_description=long_description,
